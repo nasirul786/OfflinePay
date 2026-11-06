@@ -32,6 +32,18 @@ UPI over `*99#` works with no mobile data or Wi-Fi, just network signal. But usi
 
 ## Install
 
+> [!IMPORTANT]
+> **Android may block the install.** Google Play Protect often blocks payment apps installed from outside the Play Store, especially ones that use the Accessibility Service. If the install is blocked, pause Play Protect for a moment:
+>
+> 1. Open the **Play Store** app.
+> 2. Tap your **profile photo** in the top-right corner.
+> 3. Tap **Play Protect**.
+> 4. Tap **Settings** (the gear icon, top right).
+> 5. Turn off **Scan apps with Play Protect**, then tap **Pause**.
+> 6. Install OfflinePay.
+>
+> **Turn Play Protect back on afterwards** (same steps, switch the toggle back on). It keeps your phone safe from harmful apps.
+
 1. Download the APK from the [latest release](https://github.com/nasirul786/OfflinePay/releases/latest) and open it. Allow installing from unknown sources if Android asks.
 2. Open OfflinePay, go through the intro, and agree to the [Terms](https://offlinepay.bottercc.com/terms/) and [Privacy Policy](https://offlinepay.bottercc.com/privacy/).
 3. In **Settings → Permissions**, allow **Phone calls** and **SIM access**, then turn on **Accessibility** (Downloaded apps → OfflinePay).
