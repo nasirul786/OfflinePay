@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OfflinePay</string>
+    <string name="accessibility_description">Lets OfflinePay read the *99# USSD dialog and fill in menu choices, payee details and amounts for you, so you can pay with UPI without internet. It only acts while a payment you started is running and does nothing in other apps.</string>
+</resources>
