@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo.png" width="96" alt="OfflinePay logo">
+  <img src="docs/assets/feature-graphic.png" width="100%" alt="OfflinePay: UPI payments without internet">
 </p>
 
 <h1 align="center">OfflinePay</h1>
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/nasirul786/OfflinePay/releases/latest">Download APK</a> ·
   <a href="https://offlinepay.bottercc.com">Website</a> ·
-  <a href="https://offlinepay.bottercc.com/donate">Donate</a>
+  <a href="DONATE.md">Donate</a>
 </p>
 
 ---
@@ -113,9 +113,13 @@ Kotlin · Jetpack Compose · Material 3 · CameraX · ML Kit barcode scanning
 
 Issues and pull requests are welcome, especially **USSD transcripts from other banks and operators**. Menu wording varies, and real screens are the best way to improve matching. When reporting, use the debug build's logcat output (`OfflinePayUSSD`) and **remove your account numbers, balances and any personal details first**.
 
-## Support
+## Donate
 
-OfflinePay is free. If it helps you, you can [support its development](https://offlinepay.bottercc.com/donate) via UPI, card, netbanking or crypto.
+OfflinePay is free and open source. If it helps you, you can support its development via UPI, card, netbanking or crypto.
+
+<p align="center">
+<a href="DONATE.md" alt="Donate shield"><img src="https://img.shields.io/badge/-Donate-red?logo=undertale" width="100"/></a>
+</p>
 
 ## Disclaimer
 
